@@ -1,0 +1,16 @@
+basePath: /api/v1
+host: 127.0.0.1:8080
+info:
+  contact:
+    email: jaxchow@gmail
+    name: www.topgoer.com
+    url: https://www.topgoer.com
+  description: This is a Planner Task server celler server.
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  termsOfService: https://www.topgoer.com
+  title: Planner Task API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
